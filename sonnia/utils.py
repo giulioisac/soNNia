@@ -58,7 +58,7 @@ DEFAULT_CHAIN_TYPES_PAIRED = {
 
 NORM_PRODUCTIVES = {
     "human_T_beta": 0.2442847269027897,
-    "human_T_alpha": 0.28942841130371455,
+    "human_T_alpha": 0.30977723653326683,
     "human_B_heavy": 0.1972726650924565,
     "human_B_lambda": 0.30622624319426334,
     "human_B_kappa": 0.3036617226436746,
